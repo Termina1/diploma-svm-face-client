@@ -1,2 +1,0 @@
-diploma-svm-face-client
-=======================
